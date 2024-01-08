@@ -2,7 +2,7 @@
 
 A tool to create a single executable file from bat/cmd files, and eliminate the "Terminate batch job (Y/N)?" prompt.
 
-> **Warning**
+> [!WARNING]
 > This tool is still in development, and is not ready for use.
 
 ## License
